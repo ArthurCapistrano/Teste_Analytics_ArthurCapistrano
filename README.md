@@ -45,6 +45,9 @@ Com intuito de trazer a solução do **Teste de Analytics** para o processo sele
 - **Visualizações:** Gráficos e padrões observados.  
 - **Consultas SQL:** Consultas detalhadas e explicadas no arquivo `consultas_sql.sql`.  
 
+## Suposições
+
+- Uma problemática enfrentada com o uso de dados não orgânicos foi na visualização de tendências, etc. Apesar disto, consegui criar e sugerir ações. Todas as ideias e processos foram trazidos em `relatorio_tarefas_parte1_parte2`. De forma breve sobre insights trouxe em: `relatorio_insights`.
 ---
 
 ## 📬 Informações de Contato  
